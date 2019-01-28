@@ -1,5 +1,5 @@
 # Home-pricing Models for the Ames-Iowa Market.
-by p.Shyr
+by p.Shyr/DSI5
 
 A report of the model analysis performed on the Ames dataset is presented in this folder including 5 notebooks in total.
 
